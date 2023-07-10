@@ -1,0 +1,47 @@
+body
+{
+	background-color: white; 
+}
+
+.error
+{
+	color: red;
+}
+
+.tt-input
+{
+	color: rgb(24, 23, 23);
+	border: 0;
+	border-bottom:solid ;
+	border-color: rgb(24, 23, 23);
+	
+	width: 400px;
+	padding: 0.5%;
+	margin: 3%;
+	margin-right: 1%;
+	margin-bottom: 1%;
+}
+
+.input-style 
+{
+	color: rgb(54, 38, 88);
+	background: none;
+	border: 0;
+	/*width:100%;*/
+	padding: 0.5%;
+	margin: 3%;
+	margin-top: 0.5%;
+}
+
+.btn-edit{
+	color:rgb(24, 23, 23);
+	margin: 3%;
+	width: 400px;
+	padding: 1%;
+	border: solid;
+	border-color:rgb(24, 23, 23);
+	border-radius: 20px;
+	text-align: center;
+
+	background-color:rgba(3, 3, 3, 0.296);
+}

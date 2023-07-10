@@ -1,0 +1,11 @@
+body
+{
+    background: linear-gradient(
+		to left top,
+		rgba(189, 12, 59, 0.766),
+		rgba(64, 12, 169, 0.912)
+	);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;   
+}

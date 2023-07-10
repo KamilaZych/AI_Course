@@ -1,0 +1,16 @@
+.info{
+    color: white;
+    text-align: center;
+}
+
+.link_back{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.266);
+    padding: 2%;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: white;
+    margin: 5%;
+    text-align: center;
+
+}
