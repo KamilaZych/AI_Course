@@ -26,15 +26,12 @@ Jest to aplikacja internetowa napisana w języku PHP z wykorzystaniem bazy danyc
 ## Autor
 
 * **Natalia Hańczka** 
-* *nr  album: 404352*
 * *nhanczka*
 
 * **Kamila Zych** 
-* *nr  album: 398900*
 * *kamila_z*
 
 * **Paulina Swaczyna** 
-* *nr  album: 398891*
 * *swaczyna*
 
 ## Wykorzystane zewnętrzne biblioteki
